@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cicatrices-de-tus-besos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Cicatrices de tus besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-tus-besos/) |
+| **Get License** | [Official Music Licensing for Cicatrices de tus besos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cicatrices-de-tus-besos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d8412411983b46b5f58e1c223e6297013cdfb4ed3c8bae78c3a334a0878450fb` |
 | **Timestamp** | June 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

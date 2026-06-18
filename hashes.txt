@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cicatrices de tus besos
+
+This log tracks the cryptographic history and versioning for the song **Cicatrices de tus besos** (cicatrices-de-tus-besos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T07:01:41.889160 | `v1` | `d8412411983b46b5f58e1c223e6297013cdfb4ed3c8bae78c3a334a0878450fb` | `4f8f8515d27859e2fd9008dfd46228a1234d9efe1facbceeae7fe8985563bdf5` | `2026-06-18_cicatrices-de-tus-besos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
